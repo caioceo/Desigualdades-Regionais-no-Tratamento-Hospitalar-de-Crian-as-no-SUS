@@ -3,17 +3,18 @@
 Como a eficácia da assistência hospitalar prestada durante a internação pública de crianças de 0 a 9 anos varia entre as regiões do Brasil, considerando indicadores de morbidade hospitalar como número de internações, óbitos, tempo de permanência e valores gastos por internação?
 
 ## Integrantes
+* Breno Rezende Silva de Abreu
 * Caio César de Oliveira
 * Caio Martins Montandon 
 * Gabriel Henrique Costa Soares 
-* 
-* 
-
+* Rafael Hashimoto Sanches Barbosa
+  
 ## Professores:
 
-* Hayala Nepomuceno Curto
+* Sandro Jerônimo de Almeida
 
-* Prof. Hugo Bastos de Paula
+* Kenia Aparecida Caires Cardoso
+
 
 
      
