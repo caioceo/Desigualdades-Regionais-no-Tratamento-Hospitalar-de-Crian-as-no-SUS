@@ -7,7 +7,6 @@ Como a eficácia da assistência hospitalar prestada durante a internação púb
 * Caio César de Oliveira
 * Caio Martins Montandon 
 * Gabriel Henrique Costa Soares 
-* Rafael Hashimoto Sanches Barbosa
   
 ## Professores:
 
